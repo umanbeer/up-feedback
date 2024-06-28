@@ -94,7 +94,7 @@ GitHub.
 `basename` точну назву твого репозиторію. Слеш на початку рядка обов'язковий.
 
 ```jsx
-<BrowserRouter basename="/your_repo_name">
+<BrowserRouter basename="/your_repository_name">
   <App />
 </BrowserRouter>
 ```
